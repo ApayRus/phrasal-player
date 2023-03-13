@@ -15,5 +15,8 @@
     "phrases"
   ],
   "author": "Apayrus",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "wavesurfer.js": "^6.5.2"
+  }
 }
