@@ -1,22 +1,23 @@
 {
-  "name": "phrasal-player-provider",
-  "version": "1.0.0",
-  "description": "react player provider based on wavesurfer.js, for play and edit phrases (subtitles, captions) ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "wavesurfer.js",
-    "captions",
-    "subtitles",
-    "react",
-    "player",
-    "phrases"
-  ],
-  "author": "Apayrus",
-  "license": "MIT",
-  "dependencies": {
-    "wavesurfer.js": "^6.5.2"
-  }
+	"name": "phrasal-player-provider",
+	"version": "1.0.0",
+	"description": "react player provider based on wavesurfer.js, for play and edit phrases (subtitles, captions) ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"wavesurfer.js",
+		"captions",
+		"subtitles",
+		"react",
+		"player",
+		"phrases"
+	],
+	"author": "Apayrus",
+	"homepage": "https://github.com/ApayRus/phrasal-player-provider",
+	"license": "MIT",
+	"dependencies": {
+		"wavesurfer.js": "^6.5.2"
+	}
 }
