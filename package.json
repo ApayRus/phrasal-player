@@ -1,6 +1,6 @@
 {
 	"name": "phrasal-player-provider",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "react player provider based on wavesurfer.js, for play and edit phrases (subtitles, captions) ",
 	"main": "index.js",
 	"scripts": {
